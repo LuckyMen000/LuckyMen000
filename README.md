@@ -28,6 +28,7 @@
 ### Database
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer"><img src="https://martinsblog.dk/wp-content/uploads/2021/07/sql-logo.png" width="36" height="36" alt="SQL Server"/></a>
   
 ### Socials:
 
