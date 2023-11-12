@@ -1,35 +1,29 @@
-### Hi 👋 My name is Lucky\_Men
+### Hello, my name is Danil!
 
-### Languages and Tools:
-<p align="left">
-<!--HTML-->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<!--CSS-->
-<a href="https://www.w3.org/TR/CSS/#css" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
-<!--JavaScript-->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
-<!--React-->
-<a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<!--NodeJS-->
-<a href="https://nodejs.org/en/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/></a>
-<!--Python-->
-<a href="https://www.python.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a> 
-<!--Git-->
-<a href="https://git-scm.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/</a>
-<!--Figma-->
-<a href="https://www.figma.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-  
+### Languages & Tools
 
-### Frameworks:
-<a href="https://getbootstrap.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
-<a href="https://www.djangoproject.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<div align="center">
 
-### Database
-<a href="https://www.postgresql.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/></a>
-<a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="blank" rel="noreferrer"><img src="https://martinsblog.dk/wp-content/uploads/2021/07/sql-logo.png" width="36" height="36" alt="SQL Server"/></a>
-  
-### Socials:
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=3399FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 
-<p align="left"> <a href="https://discord.com/users/589298016658391042" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
+
+</div>
+
+### Links 
+
+<div align="center">
+
+[![Gitlab](https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab)](https://gitlab.com/LuckyMen000)
+[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/589298016658391042)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Lucky_Men000)
+[![Vkontakte](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=029)](https://vk.com/banilxyilov)
+
+</div>
