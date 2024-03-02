@@ -25,5 +25,6 @@
 [![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/589298016658391042)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Lucky_Men000)
 [![Vkontakte](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=029)](https://vk.com/banilxyilov)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_luckymen0_/)
 
 </div>
