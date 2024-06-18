@@ -1,30 +1,53 @@
-### Hello, my name is Danil!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danil+Kossilov!;" />
+</h1>
 
-### Languages & Tools
+<h3 align="center">I am a Frontend Developer and also a Product Manager from Almaty ALA</h3>
 
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=3399FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
-
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
-
-</div>
-
-### Links 
+<br/>
 
 <div align="center">
+ 
+ 🔭 I’m currently consulting for **other companies.**
+ 
+💬 Ask me about **Node.js, React, TypeScript... or anything [here](https://t.me/Lucky_Men000)**
 
-[![Gitlab](https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab)](https://gitlab.com/LuckyMen000)
-[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/589298016658391042)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Lucky_Men000)
-[![Vkontakte](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=029)](https://vk.com/banilxyilov)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_luckymen0_/)
+ </div>
+ 
+<div align="center"> 
 
+  <a href="mailto:kossilovdanil@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+  </a>
+  <a href="https://t.me/Lucky_Men000" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://luckymen000.github.io/AboutMe/" target="_blank">
+     <img src="https://img.shields.io/badge/Website-de4c8a?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">💻 Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,docker,webpack,python,git,sass" />
+    <img src="https://skillicons.dev/icons?i=figma,vim,linux,bitbucket,mongodb,mysql,postgres,firebase" /><br>
+</div>
+
+
+
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
