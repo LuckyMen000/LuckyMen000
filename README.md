@@ -2,42 +2,50 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danil+Kossilov!;" />
 </h1>
 
-<h3 align="center">I am a Product Manager and an ex-Frontend Developer based in Almaty (ALA)</h3>
+<h3 align="center">🚀 Product Manager | Ex-Frontend Developer | Based in Almaty (ALA)</h3>
 
 <br/>
 
+<!-- Тонкая градиентная линия -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=100%"/>
+</p>
+
+<!-- Блок социальных ссылок -->
+<h2 align="center">Connect with me</h2>
+<p align="center"><i>Let's connect and grow together! 🚀</i></p>
+
+<!-- Отступ перед соцсетями -->
+<br>
+
 <div align="center">
- 
- 🔭 I’m currently consulting for **other companies.**
- 
-💬 Ask me about **Node.js, React, TypeScript... or anything [here](https://t.me/Lucky_Men000)**
-
- </div>
- 
-<div align="center"> 
-
-  <a href="mailto:kossilovdanil@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-  </a>
-  <a href="https://t.me/Lucky_Men000" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://luckymen000.github.io/AboutMe/" target="_blank">
-     <img src="https://img.shields.io/badge/Website-de4c8a?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="55px" />
+    </a>
+    <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="55px" />
+    </a>
+    <a href="https://gitlab.com/your-gitlab-username" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="55px" />
+    </a>
 </div>
 
- <hr/>
- 
+<!-- Отступ перед градиентной полосой -->
+<br>
+
+<!-- Тонкая градиентная линия -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=100%"/>
+</p>
+
+<hr/>
+
 <h2 align="center">💻 Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,docker,webpack,python,git,sass" />
     <img src="https://skillicons.dev/icons?i=figma,vim,linux,bitbucket,mongodb,mysql,postgres,firebase" /><br>
 </div>
-
-
-
 
 <br/>
 <hr/>
@@ -49,5 +57,3 @@
   
   <br/><br/><br/>
 </div>
-
-
