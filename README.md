@@ -25,9 +25,6 @@
     <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" width="55px" />
     </a>
-    <a href="https://gitlab.com/your-gitlab-username" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="55px" />
-    </a>
 </div>
 
 <!-- Отступ перед градиентной полосой -->
