@@ -19,10 +19,10 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <a href="https://www.linkedin.com/in/danilkossilov/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="55px" />
     </a>
-    <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+    <a href="https://www.instagram.com/_luckymen0_" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" width="55px" />
     </a>
 </div>
